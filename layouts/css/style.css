@@ -1,0 +1,22 @@
+#ads-header{
+  min-width: 1000px;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+#ads-header img{
+  width: 70px;
+  height: 70px;
+}
+#ads-header button{
+  padding: 0;
+  border: 0;
+}
+#search-home{
+  width: 700px;
+}
+#search-home input{
+  width: 300px;
+}
+#navbar-home{
+  min-width: 1000px;
+}
